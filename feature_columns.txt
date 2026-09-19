@@ -1,0 +1,20 @@
+Attendance
+Assignment1
+Assignment2
+Test1
+Test2
+Participation
+Final Exam
+Gender
+Age
+Study Hours
+Class Engagement
+Quiz_Average
+Midterm_Marks
+Previous_GPA
+Project_Score
+Extra_Curricular
+Course_English
+Course_History
+Course_Math
+Course_Science
